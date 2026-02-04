@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestProject
+  gitServerName: Nawaz
+  gitUrl: https://github.com/nawajish-laskar-IBM
+  gitUsername: nawajish-laskar-IBM
+  gitBranch: main
