@@ -1,0 +1,7 @@
+version: "1.0"
+projectName: TestProject
+runtimes:
+- runtimeAlias: PrivateRuntime1
+  assets:
+  - name: Nawaz
+    type: DAF
